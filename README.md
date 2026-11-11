@@ -1,7 +1,7 @@
 # e57_las_converter
 
 E57/LAS to Potree - Converter\
-*Next version of converter will support: e57 Panoramas, georeferenced pointclouds (coordinate shift), cutting/fencing and much more*\
+*Next version of converter will support: e57 Panoramas, georeferenced pointclouds (coordinate shift), cutting/fencing and much more*
 
 
 ###
